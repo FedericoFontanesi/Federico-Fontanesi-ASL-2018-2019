@@ -1,0 +1,23 @@
+
+body{
+	 background-color:orange;
+}
+
+
+.App {
+  text-align: center;
+  margin:150px;
+}
+
+form{
+	margin-bottom:20px;
+}
+
+input{
+	margin-right:7px;
+}
+
+img{
+	height:400px;
+	width:400px;
+}
